@@ -1,6 +1,9 @@
 react-chartist - Edu Game Branch
 ==============
 
+Forked at
+[2dc37e](https://github.com/fraserxu/react-chartist/commit/2dce37e5f6d3efe8411eaea95a2cc7f836bf61cf).
+
 This is a fork specifically for Fixate's Edu-Game project. All it does is
 reference a forked version of Chartist-js that doesn't break tests run in Node
 environments.
